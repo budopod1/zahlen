@@ -7,5 +7,6 @@ export default defineConfig({
     server: {
         host: true,
         hmr: false
-    }
+    },
+    base: "/zahlen/"
 })
